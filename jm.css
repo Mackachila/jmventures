@@ -943,7 +943,7 @@ button,[type=button],[type=reset] {
 }
 
 .page-wrapper.overflow-on {
-    overflow: visible
+    overflow: none;
 }
 
 .contain {
@@ -956,7 +956,7 @@ button,[type=button],[type=reset] {
 }
 
 .navigation-container {
-    width: 90%;
+    width: 100%;
     max-width: 1280px;
     justify-content: space-between;
     align-items: center;
